@@ -6,5 +6,5 @@ Utilized customer spaCy 'Entity Ruler' and data pipeline to accurately identify 
 
 Optimized NLP model performance by iteratively refining entity patterns, incorporating stock exchange identifiers, and implementing a "stop word" mechanism to reduce false positives.
 
-<img width="605" height="332" alt="image" src="https://github.com/user-attachments/assets/8382f173-ddd8-4d09-ac3d-27600183a5d1" />  |  <img width="304" height="358" alt="image" src="https://github.com/user-attachments/assets/7540da4e-6bd7-44aa-8d3e-a5e449bdb649" />
+<img width="547" height="310" alt="image" src="https://github.com/user-attachments/assets/837161c6-31b9-4889-a799-5a35a94cce93" />  |  <img width="304" height="358" alt="image" src="https://github.com/user-attachments/assets/7540da4e-6bd7-44aa-8d3e-a5e449bdb649" />
 
